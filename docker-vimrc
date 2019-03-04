@@ -1,7 +1,8 @@
 " Author : Hari Yerramsetty
 " github : github.com/ghraka
 
-" Initial vundle setup
+runtime! debian.vim
+
 set nocompatible
 
 filetype plugin indent on
